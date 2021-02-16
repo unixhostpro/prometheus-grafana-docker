@@ -1,5 +1,5 @@
 :9090 {
-    basicauth / {$ADMIN_USER} {$ADMIN_PASSWORD}
+    basicauth / gramilla F3g86yes10
     proxy / prometheus:9090 {
             transparent
         }
