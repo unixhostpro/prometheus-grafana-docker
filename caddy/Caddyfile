@@ -1,5 +1,5 @@
 :9090 {
-    basicauth / gramilla F3g86yes10
+    basicauth / unixhost adminpssword
     proxy / prometheus:9090 {
             transparent
         }
